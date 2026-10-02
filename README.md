@@ -6,7 +6,7 @@
 - `world/{overworld,nether,end}/`：三维 `.svr.gz` 分区、二维 PNG 和概览。
 - `textures/`：材质图集、压缩材质映射及来源许可。
 
-查看器：[SowVillage-worldview-web](https://github.com/SowVillage/SowVillage-worldview-web)。它按需读取本仓库文件，不要求同时下载整张地图。
+在线查看器：[老母猪村世界地图](https://worldview.bugmc.com/)。公开页面按需读取本仓库文件，不要求同时下载整张地图；源码保存在私有的 `SowVillage-worldview-web` 仓库。
 
 推荐通过 `https://raw.githubusercontent.com/SowVillage/SowVillage-worlddata-sc2-web-public/<commit>/` 读取，并固定完整 commit SHA，让目录、方块索引和材质使用同一版本。
 

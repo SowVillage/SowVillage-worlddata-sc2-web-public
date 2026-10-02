@@ -1,0 +1,6 @@
+dist/
+validation/
+assets/
+tools/
+node_modules/
+*.tmp
